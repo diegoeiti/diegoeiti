@@ -1,16 +1,14 @@
-## Hi there 👋
+# Diego Eiti - Desenvolvedor Full Stack
 
-<!--
-**diegoeiti/diegoeiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como estagiário/trainee em desenvolvimento web full stack.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Express, MongoDB
+- **Ferramentas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- https://www.linkedin.com/in/diego-eiti-nakashima-fortunato-83852b227/
+- diegoeiti96@gmail.com
+- https://diegoeiti.github.io/Portfolio/
