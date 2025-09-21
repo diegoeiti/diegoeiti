@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 
 ## 🚀 Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node.js, Express, MongoDB
+- **Back-end:** Node.js, MongoDB
 - **Ferramentas:** Git, GitHub, VS Code
 
 ## 📫 Contato
