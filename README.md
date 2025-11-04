@@ -4,8 +4,8 @@
 Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como estagiário/trainee em desenvolvimento web full stack.
 
 ## 🚀 Tecnologias
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node.js, MongoDB
+- **Front-end:** HTML, CSS, JavaScript, PHP, Python.
+- **Back-end:** Laravel, Node.js.
 - **Ferramentas:** Git, GitHub, VS Code
 
 ## 📫 Contato
