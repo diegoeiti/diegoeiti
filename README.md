@@ -21,9 +21,4 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 
 </div>
 
-<a href="https://github.com/diegoeiti">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=diegoeiti&show_icons=true" />
-</a>
-<a href="https://github.com/diegoeiti">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoeiti&layout=compact&langs_count=8" />
-</a>
+
