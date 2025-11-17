@@ -22,4 +22,4 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 </div>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoeiti)](https://github.com/diegoeiti)
