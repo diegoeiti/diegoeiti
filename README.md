@@ -20,3 +20,10 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoeiti&layout=compact&theme=radical)](https://github.com/diegoeiti)
 
 </div>
+
+<a href="https://github.com/diegoeiti">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=diegoeiti&show_icons=true" />
+</a>
+<a href="https://github.com/diegoeiti">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoeiti&layout=compact&langs_count=8" />
+</a>
