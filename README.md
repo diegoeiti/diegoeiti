@@ -22,4 +22,4 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoeiti&repo=SEU-REPOSITORIO)](https://github.com/diegoeiti/SEU-REPOSITORIO)
+
