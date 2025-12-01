@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como e
 
 <div align="center">
   
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoeiti&show_icons=true&theme=radical)](https://github.com/diegoeiti)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoeiti&layout=compact&theme=radical)](https://github.com/diegoeiti)
 
 </div>
