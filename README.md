@@ -1,12 +1,11 @@
 # Diego Eiti - Desenvolvedor Full Stack
 
 ## 👋 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como estagiário/trainee em desenvolvimento web full stack.
+Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade como estagiário/trainee em desenvolvimento web.
 
 ## 🚀 Tecnologias
-- **Front-end:** HTML, CSS, JavaScript, PHP, Python.
-- **Back-end:** Laravel, Node.js.
-- **Ferramentas:** Git, GitHub, VS Code
+- **Linguagens:** JavaScript, PHP, Python e Java.
+- **Back-end:** Laravel, Node.js, SpringBoot.
 
 ## 📫 Contato
 - https://www.linkedin.com/in/diego-eiti-nakashima-fortunato-83852b227/
